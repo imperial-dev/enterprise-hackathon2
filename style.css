@@ -1,0 +1,100 @@
+
+.btn-primary, .btn-primary:visited {
+    background-color: #232323 !important;
+    border: 1px solid #232323 !important;
+    padding: 8px 15px 8px 15px !important;
+}
+
+.btn-sm {
+    font-size: 0.8em !important;
+}
+
+.btn-bg {
+    font-size: 1.5em !important;
+    padding: 18px 60px 18px 60px !important;
+}
+
+.btn-primary:hover, .btn-primary:active {
+    color: #232323 !important;
+    background-color: #ffffff !important;
+    border: 1px solid #232323 !important;
+}
+<<<<<<< HEAD
+.background-card{
+    background-color: deepskyblue;
+    color:black;
+}
+
+.background-card:hover{
+    background-color: gray;
+}
+ .background-card:visited{
+     color: black;
+ }
+
+.logo{
+    width: 75px;
+    height: auto;
+}
+=======
+
+.nav-link {
+    background-image: linear-gradient(120deg, #f36d00 0%, #ffdb0e 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 0.1em;
+    background-position: 0 88%;
+    transition: background-size 0.25s ease-in;
+    color: rgb(85, 85, 85) !important;
+    font-weight: 400;
+    font-size: 0.8em !important;
+    letter-spacing: 0.05em !important;
+}
+
+h1 {
+    background-image: linear-gradient(120deg, #f36d00 0%, #ffdb0e 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 0.1em;
+    background-position: 0 88%;
+}
+
+.nav-link:hover {
+    color: #232323 !important;
+    background-size: 100% 88%;
+  }
+
+.navbar{
+    margin: 10px 50px 5px 50px;
+    }
+
+.list-group {
+        background: transparent !important;
+  }
+
+ .list-group-item {
+    background: transparent !important;
+        border: 0 !important;
+        font-weight: bold;
+        padding: 2px;
+        font-size: 1.2em;
+ }
+
+  #carousel {
+      margin-top: 15vh !important;
+  }
+
+  P {
+      margin-bottom: 0px !important;
+  }
+
+ span {
+  border-right: .05em solid;
+  animation: caret 1s steps(1) infinite;
+}
+
+@keyframes caret {
+    50% {
+      border-color: transparent;
+    }
+  } 
+
+>>>>>>> bc4864c71ec5ab2a7abfaec1d1e35016da170c06
